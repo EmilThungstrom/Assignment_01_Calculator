@@ -1,0 +1,3 @@
+# Calculator
+
+Assignment for Lexicon
